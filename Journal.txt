@@ -1,4 +1,7 @@
 Aurthors:
 S Mottley
 Title:
-This a test
+This a test 
+
+Introduction:
+Rifle shooting for beginers, needs to be simple and clear
