@@ -21,3 +21,6 @@ Balistic projectile calculations
   this
 
 Added a lot mor info
+
+Conclusions
+ This is getting more involved
