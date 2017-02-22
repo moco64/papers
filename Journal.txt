@@ -19,3 +19,5 @@ Advanced shooting ideas
 Calculations:
 Balistic projectile calculations
   this
+
+Added a lot mor info
