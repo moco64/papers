@@ -12,3 +12,6 @@ Introduction to rifle shooting
 Advanced introduction to rifle shooting
 
 Advanced shooting ideas
+
+Calculations:
+Balistic projectile calculations
