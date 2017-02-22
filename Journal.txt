@@ -22,5 +22,10 @@ Balistic projectile calculations
 
 Added a lot mor info
 
+Results:
+these are the results of the 4 last matches
+
 Conclusions
  This is getting more involved
+
+
