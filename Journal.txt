@@ -1,9 +1,9 @@
 Aurthors:
-S Mottley S Taylor
+S Mottley S Taylor S lee
 Title:
 
 
-This a test of a new way- title changed again (merged version)
+This a test of a new way- title changed again 
 
 
 Introduction:
