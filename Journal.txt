@@ -1,7 +1,7 @@
 Aurthors:
 S Mottley S Taylor
 Title:
-This a test of a new way
+This a test of a new way- title changed again
 
 Introduction:
 Rifle shooting for beginers, needs to be simple and clear
